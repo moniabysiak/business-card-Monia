@@ -18,6 +18,7 @@ body {
     flex-wrap: wrap;
     padding: 32px;
     gap: 24px;
+    box-shadow: 0px 4px 4px #665858;
 
 }
 
@@ -26,6 +27,11 @@ body {
     font-size: 16px;
     line-height: 1.375;
     margin: 0;
+}
+
+.card__description--link {
+color: #E50A9B;
+text-decoration: none;
 }
 
 .card__header {
