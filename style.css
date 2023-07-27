@@ -1,0 +1,52 @@
+body {
+    background-color: #FAA7A7;
+    margin: 0;
+}
+
+.card {
+    max-width: 625px;
+    background-color: #F8F8F8;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 32px;
+
+}
+
+.card__description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.375;
+    margin: 0;
+}
+
+.card__header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.card__photo {
+    width: 154px;
+    
+}
+
+.card__position {
+    color: #E50A9B;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    margin: 0;
+}
+
+.card__text {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin: 0;
+}
+
+
