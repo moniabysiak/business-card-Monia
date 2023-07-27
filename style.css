@@ -10,7 +10,7 @@ body {
 .card {
     max-width: 625px;
     background-color: #f3f192;
-background-image: linear-gradient(45deg, #f3f192 19%, #f385ff 95%);
+    background-image: linear-gradient(45deg, #f3f192 19%, #f385ff 95%);
     border-radius: 16px;
     display: flex;
     justify-content: center;
@@ -31,8 +31,8 @@ background-image: linear-gradient(45deg, #f3f192 19%, #f385ff 95%);
 }
 
 .card__description--link {
-color: #E50A9B;
-text-decoration: none;
+    color: #E50A9B;
+    text-decoration: none;
 }
 
 .card__header {
@@ -44,7 +44,7 @@ text-decoration: none;
 
 .card__photo {
     width: 154px;
-    
+
 }
 
 .card__position {
